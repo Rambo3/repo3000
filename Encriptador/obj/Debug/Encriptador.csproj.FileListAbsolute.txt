@@ -1,0 +1,6 @@
+C:\Users\plinskif\Documents\Visual Studio 2013\Projects\Encriptador\Encriptador\bin\Debug\Encriptador.exe.config
+C:\Users\plinskif\Documents\Visual Studio 2013\Projects\Encriptador\Encriptador\bin\Debug\Encriptador.exe
+C:\Users\plinskif\Documents\Visual Studio 2013\Projects\Encriptador\Encriptador\bin\Debug\Encriptador.pdb
+C:\Users\plinskif\Documents\Visual Studio 2013\Projects\Encriptador\Encriptador\obj\Debug\Encriptador.csprojResolveAssemblyReference.cache
+C:\Users\plinskif\Documents\Visual Studio 2013\Projects\Encriptador\Encriptador\obj\Debug\Encriptador.exe
+C:\Users\plinskif\Documents\Visual Studio 2013\Projects\Encriptador\Encriptador\obj\Debug\Encriptador.pdb
